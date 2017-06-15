@@ -1,0 +1,1 @@
+This project is a version of Vehicle Routing Problem. Trips need to be scheduled, each vehicle can service up to three customers. The objective is to meet the requested time-windows as closely as possible.
